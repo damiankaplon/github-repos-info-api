@@ -1,0 +1,4 @@
+client:
+    github-repos-info-client:
+      url: https://api.github.com
+
